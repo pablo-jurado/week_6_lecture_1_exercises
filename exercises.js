@@ -50,9 +50,18 @@ logPerson(person)
 
 // Change the value of one of the properties using dot notation.
 
+person.childrens = false
+
 // Add a new property to the object using dot notation.
+
+person.nationality = 'Argentina'
 
 // Output the object directly to the console.
 
+console.log(person)
+
 // Write a new string that describes the object using all of the object's
 // properties. Be sure to include the property you just created.
+
+console.log(person.name + ' ' + person.lastName + ' is ' + person.age +
+' years old and he is from ' + person.nationality + '.')
