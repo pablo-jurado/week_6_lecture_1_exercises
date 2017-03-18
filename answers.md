@@ -6,11 +6,11 @@ Answer the following questions to the best of your ability. Save your answers to
 
 a. A grocery list
 
-b. answer Details about a person
+b. `answer Details about a person`
 
 c. A boolean value indicating whether or not today is February 14th.
 
-d. answer Browser configuration settings
+d. `answer Browser configuration settings`
 
 e. All of the above
 
@@ -28,7 +28,7 @@ d. Arrays
 
 e. Functions
 
-f. answer All of the above
+f. `answer All of the above`
 
 ---
 
@@ -36,7 +36,7 @@ f. answer All of the above
 
 a. The expression evaluates to null
 
-b. answer The expression evaluates to undefined
+b. `answer The expression evaluates to undefined`
 
 c. The expression evaluates to NaN
 
@@ -48,4 +48,4 @@ d. An exception is thrown
 
 a. true
 
-b. answer false
+b. `answer false`
