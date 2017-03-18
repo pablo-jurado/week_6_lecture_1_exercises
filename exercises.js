@@ -25,11 +25,28 @@ for (var i = 0; i < superHeros.length; i++) {
 // For example, your object might represent a person and include properties
 // for name, age, number of children, etc.
 
-// Output the object directly to the console.
+var person = {
+  name: 'Pablo',
+  lastName: 'Jurado',
+  age: 31,
+  gender: 'male',
+  childrens: 0
+}
+
+// Output the object directly to the console
+
+console.log(person)
 
 // Write a string that describes the object using the properties you created.
 // For example, "Dan is a 35 year old father of 2 kids." Be sure to access the
 // properties using the dot property accessor.
+
+function logPerson (obj) {
+  console.log(obj.name + ' ' + obj.lastName + ' is ' + obj.age +
+  ' years old and has ' + obj.childrens + ' childrens.')
+}
+
+logPerson(person)
 
 // Change the value of one of the properties using dot notation.
 
