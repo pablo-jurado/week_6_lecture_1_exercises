@@ -4,7 +4,7 @@
 // Objects are an unordered list of properties and values.
 // This values can be primitives, arrays, functions, and other objects.
 // Objects are very handy because they allow us to encapsulate related data and
-// they are easy to read because of dot notation, for example is easier to know what 
+// they are easy to read because of dot notation, for example is easier to know wha
 // we are expecting from this objects: 'myObject.name, myObject.lastName' than
 // from this arrays 'myArray[0], myArray[1]'
 
